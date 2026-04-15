@@ -1,6 +1,7 @@
 # Tab Labeler - Chrome Extension
 
-A Chrome extension to easily identify and navigate your tab bar
+A Chrome extension to easily identify and navigate your tab bar. <br>
+Persists even when navigating through multiple websites.
 
 ## Features
 
@@ -75,6 +76,7 @@ A Chrome extension to easily identify and navigate your tab bar
 - No information is sent to external servers
 - No tracking or analytics
 - You can clear this data anytime by clearing Chrome's cache
+- Storage is cleared when a tab is closed
 
 ## License
 
