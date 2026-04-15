@@ -1,46 +1,6 @@
 # Quick Start Guide - Tab Labeler Extension
 
-## Files You Need
-
-```
-tab-labeler/
-├── manifest.json
-├── background.js
-├── content.js
-├── README.md
-└── icons/ (optional)
-    ├── icon-16.png
-    ├── icon-48.png
-    └── icon-128.png
-```
-
-## Installation Steps (2 minutes)
-
-1. **Prepare the folder**
-   - Create a new folder called `tab-labeler`
-   - Copy `manifest.json`, `background.js`, and `content.js` into this folder
-   - (Optional) Create an `icons` folder with the 3 PNG files
-
-2. **Load into Chrome**
-   - Open Chrome
-   - Go to `chrome://extensions/`
-   - Click the **Developer mode** toggle (top right)
-   - Click **Load unpacked**
-   - Select your `tab-labeler` folder
-
-3. **Done!** ✅
-   - The extension is now installed
-   - Go to any webpage and double-click to test
-
 ## How to Use
-
-### Double-click Method (Easiest)
-```
-1. Open any webpage
-2. Double-click anywhere on the page
-3. Type your label (e.g., "Project Alpha", "Email", "Research")
-4. Press Enter
-```
 
 ### Keyboard Shortcut
 ```
