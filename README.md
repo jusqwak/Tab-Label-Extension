@@ -36,7 +36,7 @@ A Chrome extension to easily identify and navigate your tab bar
 
 ### Remove a Label (Restore Original Name)
 
-1. Double-click on the page or use the keyboard shortcut
+1. Use the keyboard shortcut
 2. Delete all the text in the prompt
 3. Press Enter
 4. The tab will return to its original website name
@@ -46,8 +46,8 @@ A Chrome extension to easily identify and navigate your tab bar
 ### Keyboard shortcut not working?
 
 1. **Create new tabs**
-   - Open a new website
-   - Does not work with tabs open before extension activiation
+   - Open a new website or refresh webpage
+   - Does not work with tabs open before extension activation
 
 2. **Reload the extension:**
    - Go to `chrome://extensions/`
@@ -57,7 +57,6 @@ A Chrome extension to easily identify and navigate your tab bar
 3. **Try a different website:**
    - Go to google.com or wikipedia.org
    - Some websites might block the events
-   - Try double-clicking there
 
 ### Why did my custom name disappear?
 
