@@ -1,6 +1,6 @@
 # Tab Labeler - Chrome Extension
 
-Rename your browser tabs directly in the tab bar! Double-click anywhere on a webpage to rename the tab at the top of Chrome.
+A Chrome extension to easily identify and navigate your tab bar
 
 ## Features
 
@@ -23,7 +23,7 @@ Rename your browser tabs directly in the tab bar! Double-click anywhere on a web
 
 4. Click **Load unpacked** and select the folder
 
-5. Done! The extension is now active.
+5. The extension is now active.
 
 ## Usage
 
